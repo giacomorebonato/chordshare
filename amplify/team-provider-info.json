@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chordshare-dev-122956-authRole",
+      "UnauthRoleArn": "arn:aws:iam::601437700382:role/amplify-chordshare-dev-122956-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::601437700382:role/amplify-chordshare-dev-122956-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-chordshare-dev-122956-deployment",
+      "UnauthRoleName": "amplify-chordshare-dev-122956-unauthRole",
+      "StackName": "amplify-chordshare-dev-122956",
+      "StackId": "arn:aws:cloudformation:eu-central-1:601437700382:stack/amplify-chordshare-dev-122956/e93296f0-1910-11eb-b0a4-02310af8dee8",
+      "AmplifyAppId": "d20g285g8moaao"
+    }
+  }
+}
