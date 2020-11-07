@@ -4,7 +4,7 @@ import React from 'react'
 export const Home: React.FC = () => {
   return (
     <Box>
-      <Typography variant='h2'>Home</Typography>
+      <Typography variant='h3'>Home</Typography>
     </Box>
   )
 }
